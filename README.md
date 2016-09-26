@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The Counted
 
 This Ruby Gem provides a CLI to view people killed by police in the US @ https://www.theguardian.com/us-news/series/counted-us-police-killings.
@@ -23,3 +24,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/zenglu
 License
 
 The gem is available as open source under the terms of the MIT License.
+=======
+
+>>>>>>> 0f7f2ea3a9868279dfc2ef7511643aeb5ab07c78
