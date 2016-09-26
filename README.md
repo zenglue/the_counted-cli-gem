@@ -1,7 +1,7 @@
 
 The Counted
 
-This Ruby Gem provides a CLI to view people killed by police in the US @ https://www.theguardian.com/us-news/series/counted-us-police-killings.
+This Ruby Gem provides a CLI to view people killed by police in the US @ https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database.
 
 Installation
 
